@@ -9,6 +9,8 @@
 <p align="left"> <a href="https://twitter.com/technophille" target="blank"><img src="https://img.shields.io/twitter/follow/technophille?logo=twitter&style=for-the-badge" alt="technophille" /></a> </p>
 
 <p> <img align="right" src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/stuart-in-course.gif" height="250px" width="400px" > </p>
+<br/>
+<br/>
 
 - 🔭 I’m currently working on **mastering DSA and web development**
 
