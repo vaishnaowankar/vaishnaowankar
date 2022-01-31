@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from India with an IT background in academics.</h3>
 <p align="center"> <img src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/NUX_Octodex.gif" height="150px" width="150px" > <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="150px" width="150px"> </p>
 
-<p> <img align="right" src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/coding.gif" height="900px" width="900px" > </p>
+<p> <img align="right" src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/coding.gif" height="400px" width="400px" > </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnaowankar&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnaowankar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/technophille" target="blank"><img src="https://img.shields.io/twitter/follow/technophille?logo=twitter&style=for-the-badge" alt="technophille" /></a> </p>
