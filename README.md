@@ -2,7 +2,7 @@
 <h2 align="center">Committed to people, Committed to future!</h2>
 <h3 align="center">A passionate developer from India with an IT background in academics.</h3>
 <p align="center"> <img src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/NUX_Octodex.gif" height="150px" width="150px" > <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="150px" width="150px"> </p>
-<p align="right"> <img src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/coding.gif" height="150px" width="150px"> </p>
+<p align="right"> <img src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/coding.gif" > </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnaowankar&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnaowankar" /> </p>
 
