@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Nintendo made playing cards**
 
-<p align="right"> <img src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/coding.gif" height="200px" width="200px" > </p>
+<p> <img align="right" src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/coding.gif" height="200px" width="200px" > </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
