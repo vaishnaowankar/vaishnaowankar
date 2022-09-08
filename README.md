@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 🤝 I’m looking for help with **begineer open source projects **
+- 🤝 I’m looking for help with *begineer open source projects*
 
 - 📫 How to reach me **vaishnao.wankar2000@gmail.com**
 
