@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnaowankar&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnaowankar" /> </p>
 
-<p align="left"> <a href="https://https://twitter.com/Technophille" target="blank"><img src="https://img.shields.io/twitter/follow/technophille?logo=twitter&style=for-the-badge" alt="technophille" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Technophille" target="blank"><img src="https://img.shields.io/twitter/follow/technophille?logo=twitter&style=for-the-badge" alt="technophille" /></a> </p>
 
 <p> <img align="right" src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/developer.gif" height="250px" width="380px" > </p>
 
