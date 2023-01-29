@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 📽️ I’m looking to collaborate on **frontend projects**
 
 - 🤝 I’m looking for help with *beginner open source projects*
 
