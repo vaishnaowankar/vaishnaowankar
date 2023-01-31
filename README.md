@@ -33,9 +33,9 @@
 
 <h3 align="left">Programming Platforms:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/coolwinsome009" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/coolwinsome009" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vaishnao009/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/coolwinsome009/profile" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaishnao009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnao009" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/coolwinsome009" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/coolwinsome009" /></a>
+<a href="https://www.leetcode.com/vaishnao009" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="vaishnao009" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vaishnao009/profile" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="https://auth.geeksforgeeks.org/user/coolwinsome009/profile" /></a>
 </p>
 
 
