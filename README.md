@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Technophille" target="blank"><img src="https://img.shields.io/twitter/follow/technophille?logo=twitter&style=for-the-badge" alt="technophille" /></a> </p>
 
-<p> <img align="right" src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif"  > </p>
+<p> <img align="right" src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="300px" weight="300px" > </p>
 
 
 - 🔭 I’m currently working on **mastering DSA and web development**
