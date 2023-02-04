@@ -29,6 +29,7 @@
 <a href="https://twitter.com/technophille" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="technophille" /></a>
 <a href="https://www.linkedin.com/in/vaishnaowankar/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vaishnaowankar/" /></a>
 </p>
+<hr>
 
 
 <h3 align="left">Programming Platforms:</h3>
@@ -38,6 +39,7 @@
 <a href="https://auth.geeksforgeeks.org/user/vaishnao009/profile" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="https://auth.geeksforgeeks.org/user/coolwinsome009/profile" /></a>
 <a href="https://www.codingninjas.com/codestudio/profile/4e1947b5-475e-4bbe-9ebc-f4a42e8a77a1" target="_blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="coding ninjas profile" /></a>
 </p>
+<hr>
 
 
 
@@ -51,7 +53,7 @@
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a> 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/> </a> 
 </p>
-
+<hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnaowankar&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="vaishnaowankar" /></p>
 
