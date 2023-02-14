@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/wave.gif" width="30px">, I'm Vaishnao Wankar</h1>
-<hr>
+
 <h3 align="center">A passionate developer from India with an IT background in academics.</h3>
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="100px" width="100px"> </p>
 
