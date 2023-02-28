@@ -11,7 +11,7 @@
 <p align="right"><a href="https://app.daily.dev/vaishnao009"><img src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/devcard.svg" width="300" alt="Vaishnao Wankar's Dev Card"/></a><p>
 <!-- <p> <img align="right" src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="279px" weight="300px" > </p> -->
 
-
+<p align = "left">
 - 🔭 I’m currently working on **mastering DSA and web development**
 
 - 🌱 I’m currently learning **Data Science and Artificial Intelligence**
@@ -23,7 +23,7 @@
 - 📫 How to reach me **vaishnao.wankar2000@gmail.com**
 
 - ⚡ Fun fact **Nintendo made playing cards**
-
+<p>
 
 
 <h3 align="left">Connect with me:</h3>
