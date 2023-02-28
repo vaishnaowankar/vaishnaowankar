@@ -59,5 +59,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnaowankar&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="vaishnaowankar" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnaowankar&show_icons=true&theme=nightowl&locale=en" alt="vaishnaowankar" /></p>
-<p><a href="https://app.daily.dev/vaishnao009"><img src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/devcard.svg" width="300" alt="Vaishnao Wankar's Dev Card"/></a><p>
+
 
