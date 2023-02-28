@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/Technophille" target="blank"><img src="https://img.shields.io/twitter/follow/technophille?logo=twitter&style=for-the-badge" alt="technophille" /></a> </p>
 
-<p align="right"><a href="https://app.daily.dev/vaishnao009"><img src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/devcard.svg" width="300" alt="Vaishnao Wankar's Dev Card"/></a><p>
 <!-- <p> <img align="right" src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="279px" weight="300px" > </p> -->
 
 <p align = "left">
@@ -24,7 +23,7 @@
 
 - ⚡ Fun fact **Nintendo made playing cards**
 <p>
-
+<p align="right"><a href="https://app.daily.dev/vaishnao009"><img src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/devcard.svg" width="300" alt="Vaishnao Wankar's Dev Card"/></a><p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
