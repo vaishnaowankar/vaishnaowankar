@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **mastering DSA and web development**
 
-- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📽️ I’m looking to collaborate on **frontend projects**
 
