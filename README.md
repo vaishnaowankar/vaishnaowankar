@@ -11,7 +11,7 @@
 <p> <img align="right" src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="279px" weight="300px" > </p>
 
 
-- 🔭 I’m currently working on **mastering DSA and web development**
+- 🔭 I’m currently working on **DSA and web development**
 
 - 🌱 I’m currently learning **JavaScript**
 
