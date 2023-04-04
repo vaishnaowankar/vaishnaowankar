@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/wave.gif" width="30px">, I'm Vaishnao Wankar</h1>
 
-<h3 align="center">A passionate developer from India with an IT background in academics.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1000&color=CEF741&center=true&width=435&lines=Learning+Web+Development+and+DSA;Exploring+AI%2C+Design+and+Web3)](https://git.io/typing-svg)
+
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="100px" width="100px"> </p>
 
 
