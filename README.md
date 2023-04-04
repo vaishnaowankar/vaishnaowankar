@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/vaishnaowankar/vaishnaowankar/blob/main/wave.gif" width="30px">, I'm Vaishnao Wankar</h1>
+<h1 align="center">Hi, I'm Vaishnao Wankar 👨‍💻</h1>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="100px" width="100px"> </p>
 
