@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1000&color=CEF741&width=500&lines=Learning+Web+Development+and+DSA;Exploring+AI%2C+Design+and+Web3)](https://git.io/typing-svg)
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="100px" width="100px"> </p>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnaowankar&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnaowankar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Technophille" target="blank"><img src="https://img.shields.io/twitter/follow/technophille?logo=twitter&style=for-the-badge" alt="technophille" /></a> </p>
