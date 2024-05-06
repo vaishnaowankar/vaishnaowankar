@@ -38,7 +38,7 @@
 <a href="https://www.hackerrank.com/Vaishnaowankar09" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/coolwinsome009" /></a>
 <a href="https://www.leetcode.com/vaishnao009" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="vaishnao009" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vaishnao009/profile" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="https://auth.geeksforgeeks.org/user/coolwinsome009/profile" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/4e1947b5-475e-4bbe-9ebc-f4a42e8a77a1" target="_blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="coding ninjas profile" /></a>
+<a href="https://www.naukri.com/code360/profile/Vaishnao" target="_blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="coding ninjas profile" /></a>
 </p>
 <hr>
 
